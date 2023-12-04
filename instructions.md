@@ -25,6 +25,7 @@ Code coverage measures the amount of code exercised by a test suite. It helps in
 4. We need to learn on how to read ReadMe files in opensource projects, Follow the instructions listed in that project to Install depdendies, build the project and finally test.
 
 - [ ] *Todo:* you should be able to run the command to test this project.
+- [ ] *Do not remove these checkboxes! Add your answer below*
 
 ## Writing Unit Tests
 Check the Example of a unit test for `makePicture` function:
@@ -98,14 +99,19 @@ Make a copy of this file, name it `test_makePicture_using_mock_700.py` where you
 #### Note the change
 Now run the command to test this project again, do you see any change? How has the coverage changed?
 
-- [ ] *Todo* your answer goes.
+- [ ] *Todo* Do you see any change in output?
+- [ ] *Todo* Has the coverage changed?
+- [ ] *ToDo* attach the new screenshot.
+- [ ] **GUESS** Why this test case failed ?
+
+please note, i do not expect correct answers here. It maybe great for your spend some time ont this, but give your best shot.
 
 ### Task 3: Write Unit Tests
 Without using Generative models, Write unit tests for the following functions in JES Media Functions:
 1. `duplicatePicture`
 2. `makeSound`
 3. (optional)`getSampleValueAt` and `setSampleValueAt`
-Modify the tests we have already seen to accomplish this.
+Modify the tests we have already seen to accomplish this. Feel free to create new test files if that's your fancy! but the idea is to get these functions tested.
 ### Task 2: Measure Code Coverage
 After writing the unit tests, use `coverage.py` to measure the code coverage of your tests.
 
